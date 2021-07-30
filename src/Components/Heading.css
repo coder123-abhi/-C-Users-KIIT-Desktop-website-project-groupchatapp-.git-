@@ -1,0 +1,27 @@
+.heading-bar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color:rgb(126, 19, 226);
+    color:greenyellow;
+    height:90px;
+    
+}
+h1{
+    color:white;
+}
+   
+.heading-input{
+    display:flex;
+    flex-direction: row;
+    margin-top:28px;
+}
+#username{
+    margin-left:10px;
+}
+#password{
+    margin-left:10px;
+}
+#pass{
+    margin-left:20px;
+}
